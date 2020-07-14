@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "183749197407",
+    "firebase_url": "https://text-31feb.firebaseio.com",
+    "project_id": "text-31feb",
+    "storage_bucket": "text-31feb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183749197407:android:5448bed69890adaeb7e5ea",
+        "android_client_info": {
+          "package_name": "com.example.securechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183749197407-87gvt3kpo2pgmbo642vi38bqu6cj68hd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.securechat",
+            "certificate_hash": "d02cefa8ad3c0aad35038dac20f856217a47715c"
+          }
+        },
+        {
+          "client_id": "183749197407-afpuhdb6dr2thhn7jebb5najvovl4ada.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApM4BFSTQ32AxuiJFlW8S6g2GOVlXTXTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183749197407-afpuhdb6dr2thhn7jebb5najvovl4ada.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
